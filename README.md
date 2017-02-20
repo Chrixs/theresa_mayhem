@@ -21,6 +21,8 @@ The Unity editor is required to preview the game; to view all of our written cod
 ![Alt text](./RHorizontal Screenshot.png)
 ![Alt text](./Axis Screenshot.png)
 
+6. Save the project and press `ctrl+p` to play the game.
+
 ## Technologies Used
 
 - Unity
