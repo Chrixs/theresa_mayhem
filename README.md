@@ -4,6 +4,8 @@
 
 Theresa Mayhem was a two week project I undertook with two other developers for my final weeks at Makers Academy. It is a simple game designed to be played on a controller using just the two analogue sticks. Here is a video preview of [Theresa Mayhem](https://www.youtube.com/watch?v=FhtagoGMX2g).
 
+Here is our presentation describing the development of the [game] (https://www.youtube.com/watch?v=fXltxe3YodM&index=1&list=PLc4BYny7PXeQ-DVKwBOrsC3MfCJfJG87O).
+
 ## How to Use
 
 The Unity editor is required to preview the game; to view all of our written code, navigate to `Assets/Scripts`.
