@@ -19,9 +19,9 @@ The Unity editor is required to preview the game; to view all of our written cod
 
 5. Windows uses different input settings to MacOS so we'll need to change those first before starting up the game. Navigate to `Edit` at the top of your window, click on `Project Settings` and go to `Input`. This will open up the InputManager. Under `Axis` change the `RHorizontal` Axis to 4th axis, and the `LHorizontal` Axis to 5th axis. Screenshots below.
 
-![Alt text](./ProjectSettings Screenshot.png)
-![Alt text](./RHorizontal Screenshot.png)
-![Alt text](./Axis Screenshot.png)
+![alt text](./ProjectSettings Screenshot.png)
+![alt text](./RHorizontal Screenshot.png)
+![alt text](./Axis Screenshot.png)
 
 6. Save the project and press `ctrl+p` to play the game.
 
