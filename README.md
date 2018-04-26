@@ -39,4 +39,4 @@ In addition anytime a partner wanted to push a piece of work they had to pull fi
  
 ## Developed By
 
-[Jack Kelly](https://github.com/JWKelly29), [Chris Marriot](https://github.com/Chrixs), [Tom Fuller](https://github.com/tomfuller)
+[Jack Kelly](https://github.com/JWKelly29), [Chris Marriott](https://github.com/Chrixs), [Tom Fuller](https://github.com/tomfuller)
